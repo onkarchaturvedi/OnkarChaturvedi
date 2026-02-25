@@ -1,7 +1,7 @@
 # Hi, I'm Onkar Chaturvedi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Engineer;Data+Structures+%26+Algorithms;Generative+AI+Enthusiast;Building+Scalable+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=LLM+Engineer;Data+Structures+%26+Algorithms;Generative+AI+Enthusiast;Building+Scalable+AI+Systems" />
 </p>
 
 ---
@@ -51,14 +51,6 @@ Python-based interactive AI voice assistant capable of executing voice commands.
 
 ### 📄 Harrypool
 AI-powered resume bot designed to modernize the traditional resume format.
-
----
-
-## 📊 GitHub Stats
-
-![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=onkarchaturvedi&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=onkarchaturvedi)
 
 ---
 
